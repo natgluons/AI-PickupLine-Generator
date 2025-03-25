@@ -1,6 +1,22 @@
 # 💖 Pickup Line Generator
 
-A modern web application that generates fun, clever, or cringey pickup lines using the SmolLM-135M model. Built with Next.js and Hugging Face's Inference API.
+### A modern web application that generates fun, clever, or cringey pickup lines using the SmolLM-135M model. Built with Next.js and TailwindCSS, it’s fast, simple, and doesn’t ghost you.
+
+> ## **Tired of staring at a dating app, wondering what to say first?** Let AI do the flirting for you.
+
+<img src="https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10" alt="Pickup Line Generator" width="700"/>
+
+> ## Smooth, silly, or straight-up ridiculous — we’ve got a line for that.
+
+<img src="https://github.com/user-attachments/assets/83c131e5-a4b3-40af-b526-1353b0a47fd5" width="700"/>
+
+> ## Choose *your* vibe. Hit generate. Shoot your shot!
+
+<img src="https://github.com/user-attachments/assets/b69f347d-1e4b-443f-a3e8-2727b3a397c2" width="400"/>
+
+> # Have fun out there, and good luck scoring that date (or getting laid 😉)! You got this. 😎💖
+
+---
 
 ## 🌟 Features
 
